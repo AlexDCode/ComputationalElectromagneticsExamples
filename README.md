@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/src/support/CEM_Icon.png" width="480"/>
+  <img src="CEM_Icon.png" width="480"/>
 <p \>
 <h1 align="center">Computational Electromagnetics Examples
 </h1>
