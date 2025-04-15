@@ -1,4 +1,8 @@
-# Computational Electromagnetics Examples
+<p align="center">
+  <img src="/src/support/CEM_Icon.png" width="480"/>
+<p \>
+<h1 align="center">Computational Electromagnetics Examples
+</h1>
 This repository provides MATLAB implementations and accompanying reports for three fundamental computational electromagnetics (CEM) methods:​
 
 - Finite-Difference Time-Domain (FDTD)
